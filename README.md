@@ -1,6 +1,7 @@
 ## Hi here 👋
 
 [访问个人主页](https://yxalkaid.github.io/)
+[文档网站示例](https://yxalkaid.github.io/DocsDemo)
 
 <!--
 **yxalkaid/yxalkaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
